@@ -965,9 +965,9 @@ acorn-walk@^6.0.1:
   integrity sha512-OtUw6JUTgxA2QoqqmrmQ7F2NYqiBPi/L2jqHyFtllhOUvXYQXf0Z1CYUinIfyT4bTCGmrA7gX9FvHA81uzCoVw==
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1:
   version "6.1.1"
@@ -4977,6 +4977,11 @@ react-native-global-props@^1.1.5:
   resolved "https://registry.yarnpkg.com/react-native-global-props/-/react-native-global-props-1.1.5.tgz#443e0ffc89d5402fa20ebedf37bcbca6d861c34d"
   integrity sha512-QDeAdRel6zyJfbgyFxZi9QXZe78OdlANxJae0rJn76uTqdt/A+iWBVjJy3NmaN/fpKy0uV0HhW6Hu4xM0QCisQ==
 
+react-native-highcharts@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-highcharts/-/react-native-highcharts-1.0.2.tgz#cb8269efc5dbd7d550d2d68b3ac008b24bfba6bb"
+  integrity sha512-Oz4nEXENg07S3l9Wo9eZvAr7WIH/Mbhjh1XQaUh19zJFWTPAmEANjlkF50xNoE3kkXXpgg5WjDE6Uge0UKhwQQ==
+
 react-native-modal@^11.0.1:
   version "11.0.1"
   resolved "https://registry.yarnpkg.com/react-native-modal/-/react-native-modal-11.0.1.tgz#0c7e546557938981f188c56b80474ddfe7c9835c"
@@ -5011,6 +5016,13 @@ react-native-snap-carousel@^3.8.0:
   dependencies:
     prop-types "^15.6.1"
     react-addons-shallow-compare "15.6.2"
+
+react-native-speedometer@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/react-native-speedometer/-/react-native-speedometer-1.0.3.tgz#d4fc26861f3882aa008b8c1b349e0c1e667bd588"
+  integrity sha512-34Ne/ptaWv97jbSOq87b+gKHvGKeZ4AjYXZvovbEnQMnYNzCBWZbQNJqWWzOxyFZXbzeDsfiQ6d4xpq2pc1Tfw==
+  dependencies:
+    prop-types "^15.6.2"
 
 react-native-tab-view@^1.2.0, react-native-tab-view@^1.4.1:
   version "1.4.1"
