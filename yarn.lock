@@ -4192,10 +4192,10 @@ mkdirp@^0.5.0, mkdirp@^0.5.1:
   dependencies:
     minimist "0.0.8"
 
-moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+moment@^2.29.2:
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
+  integrity sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg==
 
 morgan@^1.9.0:
   version "1.9.1"
@@ -4977,6 +4977,11 @@ react-native-global-props@^1.1.5:
   resolved "https://registry.yarnpkg.com/react-native-global-props/-/react-native-global-props-1.1.5.tgz#443e0ffc89d5402fa20ebedf37bcbca6d861c34d"
   integrity sha512-QDeAdRel6zyJfbgyFxZi9QXZe78OdlANxJae0rJn76uTqdt/A+iWBVjJy3NmaN/fpKy0uV0HhW6Hu4xM0QCisQ==
 
+react-native-highcharts@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-highcharts/-/react-native-highcharts-1.0.2.tgz#cb8269efc5dbd7d550d2d68b3ac008b24bfba6bb"
+  integrity sha512-Oz4nEXENg07S3l9Wo9eZvAr7WIH/Mbhjh1XQaUh19zJFWTPAmEANjlkF50xNoE3kkXXpgg5WjDE6Uge0UKhwQQ==
+
 react-native-modal@^11.0.1:
   version "11.0.1"
   resolved "https://registry.yarnpkg.com/react-native-modal/-/react-native-modal-11.0.1.tgz#0c7e546557938981f188c56b80474ddfe7c9835c"
@@ -5011,6 +5016,13 @@ react-native-snap-carousel@^3.8.0:
   dependencies:
     prop-types "^15.6.1"
     react-addons-shallow-compare "15.6.2"
+
+react-native-speedometer@^1.0.3:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/react-native-speedometer/-/react-native-speedometer-1.0.5.tgz#228b0710d7cbf257b07ae4615825eda86f746d3d"
+  integrity sha512-vloJbiIATVFBMayTZXE9Zf5GD8daBJsUxU83xxNo/vynfX84omu3nMgwYxpAqwO4oDOI1Nj86pFzPkU7kPqGIA==
+  dependencies:
+    prop-types "^15.6.2"
 
 react-native-tab-view@^1.2.0, react-native-tab-view@^1.4.1:
   version "1.4.1"
